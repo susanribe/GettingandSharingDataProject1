@@ -7,9 +7,9 @@ Run in R x64 3.2.0, Windows 7 64-bit
 The dataset includes the following files:
 =========================================
 
-- 'README.txt'
+- 'README.md'
 
-- 'CodeBook.txt': Information about the variables.
+- 'CodeBook.md': Information about the variables.
 
 - 'meanGrouped.txt': Tidy data set of means of source variables grouped by Subject and Activity
 
@@ -57,4 +57,4 @@ Reference:
 This dataset is distributed AS-IS and no responsibility implied or explicit can be addressed to the authors or their institutions for its use or misuse. Any commercial use is prohibited.
 
 Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012.
-==================================================================
+
